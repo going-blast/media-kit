@@ -27,15 +27,15 @@ All logo variants can be found here:
 
 | RUNE | English | Inline Text Icon | Icon | Sticker |
 |------|---------|------------------|------|---------|
-| FEHU | Wealth | ![FEHU Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20FEHU.png) | ![FEHU Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20FEHU.png) | ![FEHU Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Fehu.png) |
-| GEBO | Talent | ![GEBO Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20GEBO.png) | ![GEBO Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20GEBO.png) | ![GEBO Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Gebo.png) |
-| HAGALL | Havoc | ![HAGALL Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20HAGALL.png) | ![HAGALL Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20HAGALL.png) | ![HAGALL Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Hagall.png) |
-| JERA | Harvest | ![JERA Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20JERA.png) | ![JERA Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20JERA.png) | ![JERA Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Jera.png) |
-| OTHALA | Estate | ![OTHALA Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20OTHALA.png) | ![OTHALA Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20OTHALA.png) | ![OTHALA Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Othala.png) |
-| SOWULI | Sun | ![SOWULI Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20SOWULI.png) | ![SOWULI Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20SOWULI.png) | ![SOWULI Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Sowuli.png) |
-| TEIWAZ | Warrior | ![TEIWAZ Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20TEIWAZ.png) | ![TEIWAZ Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20TEIWAZ.png) | ![TEIWAZ Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Teiwaz.png) |
-| THURIZAS | Troll | ![THURIZAS Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20THURIZAS.png) | ![THURIZAS Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20THURIZAS.png) | ![THURIZAS Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Thurizas.png) |
-| URUS | Power | ![URUS Inline text icon](./Runes/Inline%20Text%20Icons/Rune%20Inline%20Icon%20-%20URUS.png) | ![URUS Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20URUS.png) | ![URUS Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Urus.png) |
+| FEHU | Wealth | <img src='./Runes/Inline Text Icons/Rune Inline Icon - FEHU.svg' /> | ![FEHU Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20FEHU.png) | ![FEHU Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Fehu.png) |
+| GEBO | Talent | <img src='./Runes/Inline Text Icons/Rune Inline Icon - GEBO.svg' /> | ![GEBO Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20GEBO.png) | ![GEBO Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Gebo.png) |
+| HAGALL | Havoc | <img src='./Runes/Inline Text Icons/Rune Inline Icon - HAGALL.svg' /> | ![HAGALL Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20HAGALL.png) | ![HAGALL Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Hagall.png) |
+| JERA | Harvest | <img src='./Runes/Inline Text Icons/Rune Inline Icon - JERA.svg' /> | ![JERA Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20JERA.png) | ![JERA Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Jera.png) |
+| OTHALA | Estate | <img src='./Runes/Inline Text Icons/Rune Inline Icon - OTHALA.svg' /> | ![OTHALA Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20OTHALA.png) | ![OTHALA Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Othala.png) |
+| SOWULI | Sun | <img src='./Runes/Inline Text Icons/Rune Inline Icon - SOWULI.svg' /> | ![SOWULI Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20SOWULI.png) | ![SOWULI Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Sowuli.png) |
+| TEIWAZ | Warrior | <img src='./Runes/Inline Text Icons/Rune Inline Icon - TEIWAZ.svg' /> | ![TEIWAZ Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20TEIWAZ.png) | ![TEIWAZ Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Teiwaz.png) |
+| THURIZAS | Troll | <img src='./Runes/Inline Text Icons/Rune Inline Icon - THURIZAS.svg' /> | ![THURIZAS Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20THURIZAS.png) | ![THURIZAS Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Thurizas.png) |
+| URUS | Power | <img src='./Runes/Inline Text Icons/Rune Inline Icon - URUS.svg' /> | ![URUS Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20URUS.png) | ![URUS Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Urus.png) |
 
 
 
