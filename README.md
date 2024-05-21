@@ -27,6 +27,7 @@ All logo variants can be found here:
 
 | RUNE | English | Inline Text Icon | Icon | Sticker |
 |------|---------|------------------|------|---------|
+|GO | --- | <img src='./Runes/Inline Text Icons/Rune Inline Icon - GO.svg' /> | ![GO Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20GO.png) | ![GO Sticker](./Runes/Stickers/Rune%20Sticker%20-%20GO.png) |
 | FEHU | Wealth | <img src='./Runes/Inline Text Icons/Rune Inline Icon - FEHU.svg' /> | ![FEHU Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20FEHU.png) | ![FEHU Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Fehu.png) |
 | GEBO | Talent | <img src='./Runes/Inline Text Icons/Rune Inline Icon - GEBO.svg' /> | ![GEBO Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20GEBO.png) | ![GEBO Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Gebo.png) |
 | HAGALL | Havoc | <img src='./Runes/Inline Text Icons/Rune Inline Icon - HAGALL.svg' /> | ![HAGALL Icon](./Runes/Large%20Icons/Rune%20Icon%20Large%20-%20HAGALL.png) | ![HAGALL Sticker](./Runes/Stickers/Rune%20Sticker%20-%20Hagall.png) |
