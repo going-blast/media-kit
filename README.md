@@ -11,8 +11,10 @@ Background:     WithBG / NOBG
 Logo Above is:  Large / Chromatic / Big / WithBG
 ```
 
-All logo variants can be found here:
+Logo variants can be found here:
 [« Logo Variants »](./Logo%20Variants/)
+
+![All Logo Variants Table](./Logos%20Overview.png)
 
 
 ### Tokens
