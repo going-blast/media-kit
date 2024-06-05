@@ -1,6 +1,4 @@
-Banner.png
-
-----
+<img src="./LBP Logo Banner.png"/>
 
 
 Going Blast is the world's first on-chain gamified auction house. Compete in auctions to place the final bid, win NFTs, ERC20s, and cash prizes, join a rune to win or lose as a team, all the while sending messages to the other runes and bidders you've just outbid. And even the losers win through our proof-of-bid mechanism which rewards any and all bids.
@@ -24,14 +22,7 @@ $GO is the protocol's primary token. $GO is emitted from farms via proof-of-bid,
 
 The Going Blast protocol is fueled by the bidding fees earned through the auctions. Bidding fees are used to grow the treasury and are distributed to $GO holders through our staking pool. $GO holders (and stakers) also have access to weekly premium auctions. Premium auctions reward our community members by preventing the public from bidding. They have higher prize pots, higher emissions, and lower number of bidders due to the requirement of holding at least 250 $GO.
 
-$GO has a capped supply of 1M tokens, distributed as follows:
-- 60%: proof-of-bid emissions
-- 20%: initial LBP offering (remaining tokens burned)
-- 10%: staking emissions (6 months)
-- 5%: initial liquidity
-- 5%: team treasury
-
-TokenDistribution.png
+<img src='./Tokenomics GO Breakdown.png'/>
 
 ### Proof-of-Bid
 
@@ -45,7 +36,7 @@ Emissions are allocated to each auction when that auction is created. Emission a
 
 PoB emissions are divided into 8 three-month epochs. Emissions will last 2 years in total, after which no more $GO will be emitted through the auctions. Each epoch has half the emissions of the previous. The epochs are designed to incentivize early adopters of the platform, while maintaining price stability and preventing flooding.
 
-epochs.png
+<img src='./Proof-of-Bid epochs breakdown.png'>
 
 #### Emission Tax
 
@@ -56,38 +47,11 @@ Alternatively, proof-of-bid emissions can be harvested directly into the staking
 
 ### Partnerships
 
-TODO: add images for each partner
-
-Leading Partners: Blastopians, Blasterswap, Alchemy, Puglife, and Stryke (formerly Dopex) 
-
-Rest: ZKLink, BlastScore, Metopia, Tornado, Synfutures, SummitSwap. AutoAir AI and Bake Beans (in progress).
+<img src="./Partnerships.png"/>
 
 ### Roadmap
 
-TODO: Make graphic
-
-#### Q1 2024
-- [x] Auctioneer contract creation and testing
-- [x] Design and engineering of Frontend
-- [x] Partnerships and outreach
-- [x] Testnet deployment
-- [x] Community building
-- [x] Development of Airdrop list
-#### Q2 2024
-- [ ] Phase 0 $VOUCH Airdrop
-- [ ] Fair launch on Fjord Finance
-- [ ] First auctions take place
-- [ ] Partner auctions (NFTs, new coin launches)
-#### Q3 2024
-- [ ] Phase 1 $VOUCH Airdrop
-- [ ] Begin governance integration
-- [ ] Auctioneer audit
-- [ ] Auction events
-- [ ] Auction and treasury adjustments via governance
-#### Q4 2024
-- [ ] Launchpad - using PoB to raise funds and distribute launch tokens
-- [ ] Expand partner auctions
-- [ ] Release of runic nft collection
+<img src='./Roadmap.png'>
 
 
 ### Due Diligance
