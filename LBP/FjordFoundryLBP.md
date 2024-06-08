@@ -1,64 +1,84 @@
-<img src="./LBP Logo Banner.png"/>
+![Going Blast LBP Banner](https://github.com/going-blast/media-kit/blob/master/LBP/LBP%20Logo%20Banner.png?raw=true)
 
+### Going Blast
 
-Going Blast is the world's first on-chain gamified auction house. Compete in auctions to place the final bid, win NFTs, ERC20s, and cash prizes, join a rune to win or lose as a team, all the while sending messages to the other runes and bidders you've just outbid. And even the losers win through our proof-of-bid mechanism which rewards any and all bids.
+**The world's first on-chain gamified auction house.**
 
-Going Blast features bid-cost auctions. Each bid you place costs $1.00, and increases the final price of the auction by $0.01. Auctions have a ticking clock, and if the timer hits 0, the last bidder wins. Each bid resets the timer and keeps the auction going. Our auctions put you head to head in a battle of attrition and wits. Everyone has the opportunity to win an auction with a single bid of $1.00, as long as you've Gone Last. Auctions can feature cash prizes, NFTs, points, and ERC20s of our partner projects.
+#### How it Works
+
+**Bid to Win**: Each bid costs a flat $1.00 and raises the auction price by $0.01.
+
+**Keep the Clock Ticking**: The clock ticks down, and when it hits 0, the last bidder wins. But each new bid resets the 2 minute timer and extends the auction by 2 mins.
+
+**Sold to the Last Bidder**: Auctions can feature cash prizes, NFTS, point and ERC20s of our partner projects. You could win with just a single $1.00 bid, as long as you’ve Gone Last.
+
+#### Powered by the Community
+
+The team behind Going Blast has already built and released Summit Swap (@summitdefi), a blast native 0-fee DEX aggregator. We are a team experienced in combining gamification with strong project tokenomics and foundations.
 
 Auctions are created by the Going Blast protocol, using funds from the ever growing treasury. Check our roadmap below to see when individuals or partner projects can start creating their own auctions.
 
-The team behind Going Blast has already built and released Summit Swap (@summitdefi), a blast native 0-fee DEX aggregator. We are a team experienced in combining gamification with strong project tokenomics and foundations. We have partnered with Blastopians, Blasterswap, Alchemy, Puglife, Stryke (formerly Dopex), and many others to bring Going Blast to life.
+#### Trusted Partners
 
+We’ve partnered with Blastopians, Blasterswap, Alchemy, Puglife, Stryke (formerly Dopex) and many others to bring Going Blast to life.
 
-### $GO
+#### Mark your Calendars
 
-$GO is the protocol's primary token. $GO is emitted from farms via proof-of-bid, which can be explored in detail below. $GO will only be emitted for 2 years, broken up into 8 three-month epochs. At the end of each epoch a halving event will occur. $GO holders earn the revenue from the auctions and are given access to premium auctions (more prizes and less competition). $GO is a finite resource (capped at 1M tokens), and you're either GOing or GOne. Going Blast is designed to maintain consistent growth of $GO value, and the auctions are designed to maintain a floor price.
-
-
-**The first auction run on Going Blast will be a premium auction (only available to $GO holders) on sun June 17th. The LBP is the only way to get your $GO before then, and this auction will be our thank you to our initial supporters.**
+**The first premium auction, exclusive to $GO holders, will take place on Sunday, June 16th, and is our way of thanking our initial supporters. The LBP is the only way to get your go before the 16th of June. Don’t miss your chance to participate early and secure your $GO.**
+  
 
 
 ### Tokenomics
 
-The Going Blast protocol is fueled by the bidding fees earned through the auctions. Bidding fees are used to grow the treasury and are distributed to $GO holders through our staking pool. $GO holders (and stakers) also have access to weekly premium auctions. Premium auctions reward our community members by preventing the public from bidding. They have higher prize pots, higher emissions, and lower number of bidders due to the requirement of holding at least 250 $GO.
+**$GO** is the protocol’s primary token. $GO is emitted from auctions via proof-of bid (further details below).
 
-<img src='./Tokenomics GO Breakdown.png'/>
+**Limited Emission**: $GO will only be emitted for two years, broken up into eight three-month epochs, with a halving event at the end of each epoch.  The total supply is capped at 1 million tokens, making go a finite resource. 
 
-### Proof-of-Bid
+**Holder Benefits**: $GO holders earn revenue from the auctions and are given access to premium auctions with better prizes and less competition. $GO (and GO-ETH LP) staked in the pool also earns $VOUCH, and a little bonus kicker of $GO on the side.
 
-Proof-of-Bid is a new concept of mining the protocol tokens, and is what powers the entire Going Blast protocol. While most people are familiar with PoV and PoS, PoB takes mining tokens to the next level.
+**Sustained Growth**: Going Blast is designed to maintain consistent growth of $GO value, with the auctions structured to maintain a stable floor price. 
 
-PoB is integrated with the Going Blast auctions. Each bid placed on any auction mines tokens for the bidder. The final amount of tokens earned by each bidder is determined based on the total amount of bids in the auction. If an auction has 1000 $GO emissions allocated, and the auction finishes with 2000 bids in total, a user who bid 10 times would earn 5 $GO.
 
-Emissions are allocated to each auction when that auction is created. Emission amount is dependent on the current epoch, whether the auction is premium or not, special events, and $GO governance voting.
+![GO Tokenomics Breakdown](https://github.com/going-blast/media-kit/blob/master/LBP/Tokenomics%20GO%20Breakdown.png?raw=true)
+
+
+### Proof-of-Bid (PoB)
+
+Proof-of-Bid is a groundbreaking approach to mining protocol tokens, and powers the entire Going Blast protocol.
+
+PoB is integrated with Going Blast auctions. Each bid placed on any auction mines tokens for the bidder. The total number of tokens a bidder earns is based on the total bids placed in the auction. For example, if an auction has 1000 $GO emissions allocated, and the auction finishes with 2000 bids in total, a user who placed 10 bids would earn 5 $GO.
+
 
 #### Epochs
 
-PoB emissions are divided into 8 three-month epochs. Emissions will last 2 years in total, after which no more $GO will be emitted through the auctions. Each epoch has half the emissions of the previous. The epochs are designed to incentivize early adopters of the platform, while maintaining price stability and preventing flooding.
+PoB emissions are divided into 8 three-month epochs, lasting a total of two years. After this period, no more $GO will be emitted through the auctions. Each epoch’s emissions are halved compared to the previous, encouraging early adoption, maintaining price stability and preventing flooding.
 
-<img src='./Proof-of-Bid epochs breakdown.png'>
+![GO Epochs Breakdown](https://github.com/going-blast/media-kit/blob/master/LBP/Proof-of-Bid%20epochs%20breakdown.png?raw=true)
 
 #### Emission Tax
 
-If proof-of-bid emissions are harvested within the first 30 days of the auction ending, they are taxed at 50%, with the taxed amount being burned. After 30 days, emissions mature and can be harvested with no tax. This emission tax is implemented to prevent prevent dumping and promote price stability.
+**Early Harvest Tax**: PoB emissions harvested within the first 30 days of an auction ending are taxed at 50%, with the taxed amount being burned. This tax is implemented to prevent dumping and promote price stability. 
 
-Alternatively, proof-of-bid emissions can be harvested directly into the staking pool without paying the early harvest tax. In the staking pool these emissions start earning profits from the auction, as well as $GO and $VOUCH emissions. NOTE: harvesting directly to the staking pool will lock the staked funds for the duration of the tax period.
+**Mature Emissions**: After 30 days, emissions mature and can be harvested with no tax.
+
+**Staking Pool Option**: Emissions can instead be harvested and locked in the staking pool directly to skip the tax and 30 day maturing period.
 
 
 ### Partnerships
-
-<img src="./Partnerships.png"/>
-
+![Partnerships](https://github.com/going-blast/media-kit/blob/master/LBP/Partnerships.png?raw=true)
 ### Roadmap
-
-<img src='./Roadmap.png'>
-
-
+![Roadmap](https://github.com/going-blast/media-kit/blob/master/LBP/Roadmap.png?raw=true)
 ### Due Diligance
 
-The Going Blast contracts are available on github here TODO: link
-Architect (our engineer) is happy to walk users through the contracts / tests / coverage
+The Going Blast contracts are available on github, we are happy walk users through the contracts / tests / coverage.
 
-Going Blast is currently live on the Blast Sepolia testnet. If you would like access join our discord here and request access.
+Going Blast is currently live on the Blast testnet. If you would like access join our discord and request access.
 
-**We are self-funded, not backed by any VCs, and have not had any private sales. Going Blast is designed to be as fair as possible, and our launch is exclusively through Fjord Foundry to work towards that goal.**
+**We are self-funded, not backed by any VCs, and have not had private sales. Going Blast is designed to be as fair as possible, and our launch is exclusively through Fjord Foundry to work towards that goal.**
+
+### Socials
+- Docs: [Going Blast](https://goingblast.com/docs/intro)
+- Twitter: [@goingblast](https://twitter.com/GoingBlast)
+- Telegram: [@GoingBlastTelegram](https://t.me/GoingBlastTelegram)
+- Discord: [Invite](https://discord.gg/rwYqq6ve3h)
+- Github: [GoingBlast](https://github.com/going-blast) | [Architect](https://github.com/architect-dev)
